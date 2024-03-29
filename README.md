@@ -8,3 +8,5 @@
 `git clone git@github.com:smart-gold-fish/js-ex.git _js-ex`
 
 Строка 1
+Строка 2
+
