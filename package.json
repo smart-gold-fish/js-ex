@@ -1,0 +1,28 @@
+{
+  "name": "js-ex",
+  "version": "1.0.0",
+  "description": "1. Создадим репозиторий \"js-ex\" на github.\r 2. Склонируем себе его на компьютер",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smart-gold-fish/js-ex.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "i am",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smart-gold-fish/js-ex/issues"
+  },
+  "homepage": "https://github.com/smart-gold-fish/js-ex#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.4.0",
+    "@typescript-eslint/parser": "^7.4.0",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.1"
+  }
+}
