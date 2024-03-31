@@ -5,3 +5,9 @@ function showFirstMessage(text){
 }
 
 showFirstMessage("Hello from lesson 16!!!");
+
+function fncalc(a, b) {
+    return a + b;
+}
+
+console.log(fncalc(5, 8));
